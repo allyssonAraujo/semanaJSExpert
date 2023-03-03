@@ -53,7 +53,6 @@ const factory = {
       view: new View(),
       worker,
       camera,
-      videoUrl
     })
   }
 }
